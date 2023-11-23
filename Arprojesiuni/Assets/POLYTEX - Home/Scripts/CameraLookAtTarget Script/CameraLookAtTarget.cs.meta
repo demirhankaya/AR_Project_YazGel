@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dcf6c165a2175c4488dc622c28fe4923
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168285
+  packageName: POLYTEX - Home
+  packageVersion: 1.0
+  assetPath: Assets/POLYTEX - Home/Scripts/CameraLookAtTarget Script/CameraLookAtTarget.cs
+  uploadId: 367994

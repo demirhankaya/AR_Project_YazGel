@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7689051185d12f4298e1ebb2693a29f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168285
+  packageName: POLYTEX - Home
+  packageVersion: 1.0
+  assetPath: Assets/POLYTEX - Home/Settings/AudioDecompressOnLoad.preset
+  uploadId: 367994

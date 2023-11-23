@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f07808f8bfcb304daed38315e03402d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168285
+  packageName: POLYTEX - Home
+  packageVersion: 1.0
+  assetPath: Assets/POLYTEX - Home/Outline Shader/Outline Shader.shader
+  uploadId: 367994

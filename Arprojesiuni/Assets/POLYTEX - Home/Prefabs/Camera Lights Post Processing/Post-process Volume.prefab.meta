@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f70a46d74d495764b9981b126710c4ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168285
+  packageName: POLYTEX - Home
+  packageVersion: 1.0
+  assetPath: Assets/POLYTEX - Home/Prefabs/Camera Lights Post Processing/Post-process
+    Volume.prefab
+  uploadId: 367994

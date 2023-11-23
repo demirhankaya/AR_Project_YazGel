@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ef9e54495f74dc488642b385ac1bf3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168285
+  packageName: POLYTEX - Home
+  packageVersion: 1.0
+  assetPath: Assets/POLYTEX - Home/Animations/Camera Animations/Camera Target/Camera
+    Target.controller
+  uploadId: 367994

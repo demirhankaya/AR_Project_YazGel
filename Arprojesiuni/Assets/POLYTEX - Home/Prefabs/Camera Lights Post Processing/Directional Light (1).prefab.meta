@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00f3260b301037642a9c123b9ef99bed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168285
+  packageName: POLYTEX - Home
+  packageVersion: 1.0
+  assetPath: Assets/POLYTEX - Home/Prefabs/Camera Lights Post Processing/Directional
+    Light (1).prefab
+  uploadId: 367994
